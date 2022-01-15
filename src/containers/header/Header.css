@@ -26,7 +26,7 @@
 }
 .gpt3_header-content_input {
   width: 100%;
-  margin: 2rem 0 1rem;
+  margin: 2rem 0 1rem 1rem;
 
   display: flex;
 }
@@ -41,7 +41,7 @@
   border-radius: 5px 0px 0px 5px;
   line-height: 27px;
   color: #fff;
-
+  padding-left: 1rem;
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
 }
