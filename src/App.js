@@ -11,9 +11,9 @@ function App() {
         <Navbar></Navbar>
         <Header></Header>
       </div>
-         <Brand></Brand>
-         <About />
-         <Feature></Feature>
+         
+         
+         
          <CTA></CTA>
          <Blog></Blog>
          <Footer></Footer>
