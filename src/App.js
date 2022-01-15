@@ -1,5 +1,5 @@
 import './App.css';
-import { Article, CTA, Navbar, Brand, Feature } from './components'
+import { CTA, Navbar, Brand, Feature } from './components'
 import About from './components/about/About';
 import Blog from './containers/blog/Blog';
 import Footer from './containers/footer/Footer';
